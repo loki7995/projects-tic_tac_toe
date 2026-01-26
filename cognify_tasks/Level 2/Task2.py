@@ -19,3 +19,22 @@ while True:
     else:
         print("Congratulations! You guessed the correct number.")
         break
+    #OUTPUT
+    ''''
+    Enter the lower bound: 1  
+Enter the upper bound: 100
+Guess the number between 1 and 100
+Enter your guess between lower and upper: 10
+Too low, enter the high number 
+Enter your guess between lower and upper: 20
+Too low, enter the high number 
+Enter your guess between lower and upper: 30
+Too low, enter the high number 
+Enter your guess between lower and upper: 50
+Too low, enter the high number 
+Enter your guess between lower and upper: 70
+Too high, enter the low number 
+Enter your guess between lower and upper: 60
+Too low, enter the high number 
+Enter your guess between lower and upper: 65
+Congratulations! You guessed the correct number.'''

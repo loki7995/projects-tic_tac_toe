@@ -23,3 +23,12 @@ else:
 
 # Display result
 print(f"Result: {result}")
+
+
+#OUTPUT
+'''Basic Calculator
+Supported operators: +, -, *, /, %
+Enter first number: 98
+Enter operator (+, -, *, /, %): +
+Enter second number: 2
+Result: 100.0'''

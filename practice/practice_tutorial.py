@@ -1,6 +1,3 @@
-print("Email Validator-(check wether given email is valid or not)")
-print("--------------------------------------------------------")
-
 def is_valid_email(email):
     # Check for spaces
     if " " in email:
@@ -25,12 +22,3 @@ def is_valid_email(email):
         return False
 
     return True
-
-
-# -------- MAIN PROGRAM --------
-email = input("Enter an email address: ")
-
-if is_valid_email(email):
-    print("Yes, the given email is valid")
-else:
-    print("No, the given email is invalid")

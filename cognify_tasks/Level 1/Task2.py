@@ -13,3 +13,10 @@ elif unit == 'F':
 else:
     print("invalid unit enter 'C' for Celcius or 'F' for fahrenheit")
 
+#OUTPUT
+'''Temperature Conversion 'Task 2' -Level 1
+-----------------------------------------
+Enter the temperature value: 234
+enter the unit('C' for celcius or 'F' for fahrenheit): f
+234.0°C is equal to 92.17F Fahrenheit'''     
+

@@ -10,3 +10,10 @@ if is_palindrome(user_string):
     print("The given string is a palindrome")
 else:
     print("The given string is not a palindrome")
+
+
+#OUTPUT
+'''
+Enter a string: CAR
+The given string is not a palindrome
+'''    

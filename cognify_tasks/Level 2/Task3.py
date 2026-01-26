@@ -30,3 +30,11 @@ password = input("Enter your password: ")
 
 # Display password strength
 print(check_password_strength(password))
+
+#OUTPUT
+'''
+Enter your password: gani@0987
+Moderate password: include uppercase, lowercase, digits, and special characters
+
+Enter your password: Mahi@7545
+Strong password'''
