@@ -1,9 +1,0 @@
-python
-c
-c++
-java
-react
-html
-css
-django
-sql
